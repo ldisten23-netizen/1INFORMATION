@@ -1,0 +1,15 @@
+# Build output
+build/
+.gradle/
+local.properties
+*.iml
+.idea/
+
+# Never commit data or secrets
+*.db
+*.db-shm
+*.db-wal
+*.apk
+*.keystore
+*.jks
+uploads/
